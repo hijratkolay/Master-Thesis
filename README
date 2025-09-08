@@ -1,9 +1,9 @@
-# Master Thesis
+# Master-Thesis
 
-The code in this repository was developed as part of my Master's thesis project titled:  
-**From Gaze to Action: Investigating Fixation and Response Timing in the Approach-Avoidance Task Paradigm**
+The code in this repository was created within my Master's Thesis on the topic  
+"From Gaze to Action: Investigating Fixation and Response Timing in the Approach-Avoidance Task Paradigm".
 
-## About
-This repository contains Python (version 3.11) scripts used for data processing, statistical analysis, and visualization related to the thesis project.  
+Files in this repository are written in Python (version 3.11) and were used for data processing, statistical analysis, and visualization related to the thesis project.
 
-All datasets were kindly provided by **Aitana Grasso Cladera**.
+All datasets were kindly provided by Aitana Grasso Cladera.
+
